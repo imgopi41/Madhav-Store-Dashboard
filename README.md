@@ -66,8 +66,28 @@ In Power BI Reports give you a chance to accumulate and sort out our perceptions
  visual. When we are making a report or a dashboard in Power BI. You can make them greater, change their stature or width, and cuddle them up to
  different tiles any way as per our need.
  
+
+
+ **VI. Steps involved in this Analysis:**
  
-  **VI. Demo**
+ 👉 Data Gathering : I have imported CSV file to Excel.
+ 
+👉 Data Cleaning: Ensuring accurate and reliable results.
+
+👉Data Processing: Transforming raw data into a structured format.
+
+👉Data Analysis: Uncovering Patterns, Trends, and correlations.
+
+👉Interactive Dashboard: Presenting the findings in a visually appealing manner.
+
+👉Insights: Extracting valuable information to drive growth.
+
+
+
+ 
+ 
+ 
+  **VII. Demo**
   
   
   ![Madhav Store Dashboard Screenshot](https://github.com/imgopi41/Power-BI-Projects/assets/99798157/c5cb5a62-bbb1-4b38-9335-4d6517dd236e)
@@ -75,7 +95,8 @@ In Power BI Reports give you a chance to accumulate and sort out our perceptions
  
 
 
-**VII. Applications & Future enhancements**
+
+**VIII. Applications & Future enhancements**
 
  An Interactive personalized Dashboards and reports of online sales of Madhav Store. This type of Dashboards shows you the improvement 
  and growth of your sales. Widely used to show the reports of company sales in Pictorial format.  
