@@ -73,6 +73,12 @@ In Power BI Reports give you a chance to accumulate and sort out our perceptions
   ![Madhav Store Dashboard Screenshot](https://github.com/imgopi41/Power-BI-Projects/assets/99798157/c5cb5a62-bbb1-4b38-9335-4d6517dd236e)
 
  
+
+
+**VII. Applications & Future enhancements**
+
+ An Interactive personalized Dashboards and reports of online sales of Madhav Store. This type of Dashboards shows you the improvement 
+ and growth of your sales. Widely used to show the reports of company sales in Pictorial format.  
  
  
  **Madhav Store Sales Dashboard, This Project is also uploaded in LinkedIn,**
